@@ -1,2 +1,1 @@
-https://stackblitz.com/storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSUhwZ2dFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4b3917a10fa6ec85a0c95120456daecce3b9266b//.gitignore
-.env
+/node_modules
