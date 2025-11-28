@@ -101,7 +101,7 @@ The app uses the GitHub REST API v3. No authentication is required for basic use
 
 ## 🌐 Deployment
 
-The application is deployed on Netlify. To deploy your own version:
+The application is deployed on Vercel. To deploy your own version:
 
 1. Build the project:
 ```bash
